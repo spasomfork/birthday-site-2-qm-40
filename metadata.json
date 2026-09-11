@@ -1,0 +1,6 @@
+{
+  "name": "Countdown to Big 40 - QM@40 Ayia Napa",
+  "description": "Celebration portal for Queen Molly's 40th Birthday in Ayia Napa, Cyprus featuring itinerary, video showcase, hotel tickets booking, and RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
